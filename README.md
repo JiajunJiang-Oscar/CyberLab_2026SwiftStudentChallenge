@@ -12,6 +12,7 @@ Feel free to explore the code, the visual design, and the decisions behind each 
  - App Name: Cyber Lab <br>
  - Type: Card Placement Battle (PVE) <br>
  - Auther: Jiajun Jiang (Oscar) <br>
+ - Operating Requirement: Swfit Playground(iPad), Xcode(Mac)<br>
  - Target Users: People of all ages interested in cyber security. <br>
  - Description: By simulating the choices of cybersecurity defenders in real situations, users can learn about cybersecurity knowledge and thereby enhance their awareness of cybersecurity. <br>
 
