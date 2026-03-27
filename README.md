@@ -6,6 +6,8 @@ I designed it to make learning about cybersecurity both engaging and accessible 
 If you’re a fellow participant from 2026 or beyond, I hope this app can offer you some inspiration or simply spark a new idea of your own.
 Feel free to explore the code, the visual design, and the decisions behind each gameplay interaction. <br>
 
+<br>Although this work didn't win any awards in the competition, I still think it's a relatively excellent software. I hope you like it.<br>
+
 ## App Details
  - App Name: Cyber Lab <br>
  - Type: Card Placement Battle (PVE) <br>
